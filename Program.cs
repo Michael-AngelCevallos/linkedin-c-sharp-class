@@ -18,16 +18,16 @@ namespace HelloWorld
             // #5 Console - represents a terminal object
             //#6 WriteLine - is a function/method - prints a string to the terminal
             // #7 - VERY IMPORTANT !!! IN C# YOU MUST END WITH SEMI-COLON OR CODE WILL CRASH!!!!!!!<-------
-            Console.WriteLine("Hello World!");
+            // Console.WriteLine("Hello World!");
 
-            // #8 - ASK USER FOR THEIR NAME USING CONSOLE.WRITELINE
-            Console.WriteLine("What is your name?");
+            // // #8 - ASK USER FOR THEIR NAME USING CONSOLE.WRITELINE
+            // Console.WriteLine("What is your name?");
 
-            // #9 - Create a String Variable that takes in the users answer, Do this by using a Console.ReadLine
-            string name = Console.ReadLine();
+            // // #9 - Create a String Variable that takes in the users answer, Do this by using a Console.ReadLine
+            // string name = Console.ReadLine();
 
-            //#10 - Return message to console that says hello + users input
-            Console.WriteLine("Hello " + name + "!");
+            // //#10 - Return message to console that says hello + users input
+            // Console.WriteLine("Hello " + name + "!");
 
 //==========================================================================
 
@@ -49,6 +49,14 @@ namespace HelloWorld
 
     // #4 - Declare An ARRAY - List of values, declared by using the square barcket notation ([])
     int[] vals = new int[5];
+    string[] strings = {"one","two","three"};
+
+    // #5 - Prints out values of arrays to the console. This will print out TYPE of Array to console. This Is NOT what we want
+    // Console.WriteLine(vals);
+    // Console.WriteLine(strings);
+
+    // #6 - Print Out messages to console using Formating String. A Console WriteLine that declares message without variables directely within console writeline
+    Console.WriteLine("{0},{1},{2},{3},{4}");
 
 
 
