@@ -26,7 +26,18 @@ namespace HelloWorld
             // #9 - Create a String Variable that takes in the users answer, Do this by using a Console.ReadLine
             string name = Console.ReadLine();
 
-            Console.WriteLine("Hello " + name);
+            //#10 - Return message to console that says hello + users input
+            Console.WriteLine("Hello " + name + "!");
+
+//==========================================================================
+
+    // VARIABLES 
+
+    int integer = 10;
+    float f = 2.0f;
+    decimal d = 10.0m;
+    
+
 
         }
     }
