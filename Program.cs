@@ -40,14 +40,18 @@ namespace HelloWorld
     bool b = true;
     char c = 'c';
 
-    // #2 - Declare a string, 's' in string must be lowercase
+    // #2 - Declare a string, 's' in string must be lowercase(And incased within quotations(""))
     string str = "I am a string";
 
-    // #3 - Declare an Implicit Variable
+    // #3 - Declare an IMPLICIT Variable(A VARIABLE THAT IS DECLARED WITH VAR, NOT SPECIFIED LIKE ABOVE) - Using the Keyword 'var' you can declare a variable and when ran, the program will figure out what variable was meant to be used for you
     var x = 10;
     var z = "Hello!";
 
-    
+    // #4 - Declare An ARRAY - List of values, declared by using the square barcket notation ([])
+    int[] vals = new int[5];
+
+
+
 
 
 
