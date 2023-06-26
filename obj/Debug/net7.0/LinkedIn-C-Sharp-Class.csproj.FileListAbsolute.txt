@@ -1,0 +1,15 @@
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/bin/Debug/net7.0/LinkedIn-C-Sharp-Class
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/bin/Debug/net7.0/LinkedIn-C-Sharp-Class.deps.json
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/bin/Debug/net7.0/LinkedIn-C-Sharp-Class.runtimeconfig.json
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/bin/Debug/net7.0/LinkedIn-C-Sharp-Class.dll
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/bin/Debug/net7.0/LinkedIn-C-Sharp-Class.pdb
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.csproj.AssemblyReference.cache
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.AssemblyInfoInputs.cache
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.AssemblyInfo.cs
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.csproj.CoreCompileInputs.cache
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.dll
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/refint/LinkedIn-C-Sharp-Class.dll
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.pdb
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/LinkedIn-C-Sharp-Class.genruntimeconfig.cache
+/Users/michael-angelcevallos/Desktop/LinkedIn-C-Sharp-Class/obj/Debug/net7.0/ref/LinkedIn-C-Sharp-Class.dll
