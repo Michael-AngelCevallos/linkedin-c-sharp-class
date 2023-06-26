@@ -33,10 +33,24 @@ namespace HelloWorld
 
     // VARIABLES 
 
+    // #1 - Declare some basic value variable types
     int integer = 10;
     float f = 2.0f;
     decimal d = 10.0m;
+    bool b = true;
+    char c = 'c';
+
+    // #2 - Declare a string, 's' in string must be lowercase
+    string str = "I am a string";
+
+    // #3 - Declare an Implicit Variable
+    var x = 10;
+    var z = "Hello!";
+
     
+
+
+
 
 
         }
