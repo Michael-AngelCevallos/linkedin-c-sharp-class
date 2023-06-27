@@ -34,26 +34,26 @@ namespace HelloWorld
     // VARIABLES 
 
     // #1 - Declare some basic value variable types
-    int integer = 10;
-    float f = 2.0f;
-    decimal d = 10.0m;
-    bool b = true;
-    char c = 'c';
+    // int integer = 10;
+    // float f = 2.0f;
+    // decimal d = 10.0m;
+    // bool b = true;
+    // char c = 'c';
 
     // #2 - Declare a string, 's' in string must be lowercase(And incased within quotations(""))
-    string str = "I am a string";
+    // string str = "I am a string";
 
     // #3 - Declare an IMPLICIT Variable(A VARIABLE THAT IS DECLARED WITH VAR, NOT SPECIFIED LIKE ABOVE) - Using the Keyword 'var' you can declare a variable and when ran, the program will figure out what variable was meant to be used for you
-    var x = 10;
-    var z = "Hello!";
+    // var x = 10;
+    // var z = "Hello!";
 
     // #4 - Declare An ARRAY - List of values, declared by using the square barcket notation ([])
 
     // - USE THIS IF YOU DONT KNOW WHAT VALUES ARE GOING TO BE YET
-    int[] vals = new int[5];
+    // int[] vals = new int[5];
 
     // - USE THIS IF YOU DO KNOW WHAT VALUES ARE GOING TO BE
-    string[] strings = {"one","two","three"};
+    // string[] strings = {"one","two","three"};
 
     // #5 - Prints out values of arrays to the console. This will print out TYPE of Array to console. This Is NOT what we want.
 
@@ -67,7 +67,7 @@ namespace HelloWorld
     // #7 - null - use the null value when you want to declare a variable BUT do NOT know the value yet. When ran Null will return nothing BUT WILL NOT break code.
 
     object obj = null;
-    System.Console.WriteLine(obj); // returns nothing to the console when ran
+    Console.WriteLine(obj); // returns nothing to the console when ran
 
     // #8 - Implicit CONVERSION between types - used when you need to change the variable type of a previously declared variable. Because this is IMPLICIT we use the keyword 'var'
 
@@ -80,7 +80,7 @@ namespace HelloWorld
     // #9 - EXPLICIT CONVERSION - Some variable types, such as float, must be declared explicitley. They will not work with method used above. We can do this by using technique explained below.
 
        // We can assign i to float but in order to do this we must put the word float in paranethisis and then inputing variable we want to change outside of parenthesis. 
-    float iToF = (float)i;
+    // float iToF = (float)i;
 
     //===================================================================
     // --> NEXT LESSONS WILL BE PUT IN DIFFRENT FOLDERS, ORDER OF CLASS LESSONS WILL START WITH OPERATORS FOLDER, (TO RUN, GO TO OPERATORS FOLDER, THEN RUN THE PROGRAM FILE LOCATED WITHIN THERE). THE LIST BELOW WILL BE NUMBERED ACCORDINLY IN RELATION TO THE ORDER OF THE CLASS...
@@ -91,7 +91,8 @@ namespace HelloWorld
     // Operators Lesson
 
 
-
+    // test
+    Console.WriteLine("test");
 
 
 
