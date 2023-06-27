@@ -48,16 +48,28 @@ namespace HelloWorld
     var z = "Hello!";
 
     // #4 - Declare An ARRAY - List of values, declared by using the square barcket notation ([])
+
+    // - USE THIS IF YOU DONT KNOW WHAT VALUES ARE GOING TO BE YET
     int[] vals = new int[5];
+
+    // - USE THIS IF YOU DO KNOW WHAT VALUES ARE GOING TO BE
     string[] strings = {"one","two","three"};
 
-    // #5 - Prints out values of arrays to the console. This will print out TYPE of Array to console. This Is NOT what we want
+    // #5 - Prints out values of arrays to the console. This will print out TYPE of Array to console. This Is NOT what we want.
+
     // Console.WriteLine(vals);
     // Console.WriteLine(strings);
 
     // #6 - Print Out messages to console using Formating String. A Console WriteLine that declares message without variables directely within console writeline
-    Console.WriteLine("{0},{1},{2},{3},{4}");
 
+    // Console.WriteLine("{0},{1},{2},{3},{4}");
+
+    // #7 - null - use the null value when you want to declare a variable BUT do NOT know the value yet. When ran Null will return nothing BUT WILL NOT break code.
+
+    object obj = null;
+    System.Console.WriteLine(obj); // returns nothing to the console when ran
+
+    // #8 - Implicit CONVERSION between types - use when you need to change the variable type of a previously declared variable. Because t
 
 
 
