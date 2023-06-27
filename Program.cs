@@ -69,7 +69,28 @@ namespace HelloWorld
     object obj = null;
     System.Console.WriteLine(obj); // returns nothing to the console when ran
 
-    // #8 - Implicit CONVERSION between types - use when you need to change the variable type of a previously declared variable. Because t
+    // #8 - Implicit CONVERSION between types - used when you need to change the variable type of a previously declared variable. Because this is IMPLICIT we use the keyword 'var'
+
+    // long is used for very large numbers that int will NOT compile. For Example variable i is declared previously as an int()
+    // long bigNum;
+    // bigNum = i;
+
+    // Now variable i Can take in a much larger number when called upon
+
+    // #9 - EXPLICIT CONVERSION - Some variable types, such as float, must be declared explicitley. They will not work with method used above. We can do this by using technique explained below.
+
+       // We can assign i to float but in order to do this we must put the word float in paranethisis and then inputing variable we want to change outside of parenthesis. 
+    float iToF = (float)i;
+
+    //===================================================================
+    // --> NEXT LESSONS WILL BE PUT IN DIFFRENT FOLDERS, ORDER OF CLASS LESSONS WILL START WITH OPERATORS FOLDER, (TO RUN, GO TO OPERATORS FOLDER, THEN RUN THE PROGRAM FILE LOCATED WITHIN THERE). THE LIST BELOW WILL BE NUMBERED ACCORDINLY IN RELATION TO THE ORDER OF THE CLASS...
+
+    // 3. OPERATORS
+    //====================================================================
+
+    // Operators Lesson
+
+
 
 
 
