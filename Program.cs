@@ -82,17 +82,28 @@ namespace HelloWorld
        // We can assign i to float but in order to do this we must put the word float in paranethisis and then inputing variable we want to change outside of parenthesis. 
     // float iToF = (float)i;
 
-    //===================================================================
+    
+    
+//===================================================================
+    //**----IGNORE----------------//
     // --> NEXT LESSONS WILL BE PUT IN DIFFRENT FOLDERS, ORDER OF CLASS LESSONS WILL START WITH OPERATORS FOLDER, (TO RUN, GO TO OPERATORS FOLDER, THEN RUN THE PROGRAM FILE LOCATED WITHIN THERE). THE LIST BELOW WILL BE NUMBERED ACCORDINLY IN RELATION TO THE ORDER OF THE CLASS...
 
+
+
     // 3. OPERATORS
+
+    //**----IGNORE--------------//
     //====================================================================
 
     // Operators Lesson
 
 
-    // test
-    Console.WriteLine("test");
+    //#1. DECLARE SOME VARIABLES
+    int x = 10;
+    int y = 5;
+    string a = "abcd";
+    string b = "efgh";
+    
 
 
 
