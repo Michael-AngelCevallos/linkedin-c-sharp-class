@@ -107,9 +107,10 @@ namespace HelloWorld
     // #2.  BASIC MATH OPERATORS (+,-,*,/)
     Console.WriteLine("----BASIC MATH----");
     Console.WriteLine((x/y)*2);
+    Console.WriteLine(a+b);
 
     // #3. INCREMENT/DECREMENT OPERATORS
-
+    
 
 
 
