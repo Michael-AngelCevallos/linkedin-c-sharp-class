@@ -111,10 +111,17 @@ namespace HelloWorld
 
     // #3. INCREMENT/DECREMENT OPERATORS
     System.Console.WriteLine("----SHORTHAND FOR INC/DEC----");
-    x++;
-    y--;
+
+    x++;// increments x from 10 to 11
+    y--; // decrements y from 5 to 4
+
     System.Console.WriteLine(x);
     System.Console.WriteLine(y);
+
+    // #4. Operators can be shorthand: a = a + b
+    System.Console.WriteLine("---SHORTHAND FOR a = a + b ---");
+    a += b;
+    System.Console.WriteLine(a);
     
 
 
