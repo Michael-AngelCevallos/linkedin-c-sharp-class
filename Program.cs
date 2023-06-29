@@ -66,8 +66,8 @@ namespace HelloWorld
 
     // #7 - null - use the null value when you want to declare a variable BUT do NOT know the value yet. When ran Null will return nothing BUT WILL NOT break code.
 
-    object obj = null;
-    Console.WriteLine(obj); // returns nothing to the console when ran
+    // object obj = null;
+    // Console.WriteLine(obj); // returns nothing to the console when ran
 
     // #8 - Implicit CONVERSION between types - used when you need to change the variable type of a previously declared variable. Because this is IMPLICIT we use the keyword 'var'
 
@@ -98,12 +98,18 @@ namespace HelloWorld
     // Operators Lesson
 
 
-    //#1. DECLARE SOME VARIABLES
+    // #1. DECLARE SOME VARIABLES
     int x = 10;
     int y = 5;
     string a = "abcd";
     string b = "efgh";
-    
+
+    // #2.  BASIC MATH OPERATORS (+,-,*,/)
+    Console.WriteLine("----BASIC MATH----");
+    Console.WriteLine((x/y)*2);
+
+    // #3. INCREMENT/DECREMENT OPERATORS
+
 
 
 
