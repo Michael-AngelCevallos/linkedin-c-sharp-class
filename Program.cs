@@ -110,6 +110,11 @@ namespace HelloWorld
     Console.WriteLine(a+b);
 
     // #3. INCREMENT/DECREMENT OPERATORS
+    System.Console.WriteLine("----SHORTHAND FOR INC/DEC----");
+    x++;
+    y--;
+    System.Console.WriteLine(x);
+    System.Console.WriteLine(y);
     
 
 
