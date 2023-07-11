@@ -1,4 +1,8 @@
 ﻿
+// **** TO START PROGRAM IN TERMINAL TYPE ->    dotnet run
+
+
+
 // #1 - using System; - indicates that our program will be using code that is 
 // in the .Net Namespace
 using System;
@@ -125,8 +129,8 @@ namespace HelloWorld
     
     // #5. Logical Operators &&, ||
     System.Console.WriteLine("-----Logic Operators-----");
-    System.Console.WriteLine(x > y && y >= 5);
-
+    System.Console.WriteLine(x > y && y >= 5); // returns false
+    System.Console.WriteLine(x > y || y >= 5);// 
     // #6. 
 
 
