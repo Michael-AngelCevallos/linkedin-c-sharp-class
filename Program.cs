@@ -125,8 +125,9 @@ namespace HelloWorld
     
     // #5. Logical Operators &&, ||
     System.Console.WriteLine("-----Logic Operators-----");
+    System.Console.WriteLine(x > y && y >= 5);
 
-    
+    // #6. 
 
 
 
